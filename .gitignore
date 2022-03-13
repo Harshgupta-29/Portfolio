@@ -1,6 +1,6 @@
 
 ### Django ###
-echo .env > .gitignore
+.env
 *.log
 *.pot
 *.pyc
